@@ -1,1 +1,17 @@
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# VS Code
 .vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac (just in case)
+.DS_Store
+
+# Node (if you use Fugu or any npm tools)
+node_modules/

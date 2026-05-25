@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "My Logfile"
 
 [params]
   displayName = "EN"
@@ -15,14 +15,14 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
+#   name = "BouncySludge"
+#   email = "bouncysludge@gmail.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 #   links = [
-#     { email = "mailto:hello@your_domain.com" },
+#     { email = "mailto:bouncysludge@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

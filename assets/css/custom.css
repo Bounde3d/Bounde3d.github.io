@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('/fonts/JetBrainsMono-Regular.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('/fonts/JetBrainsMono-Italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('/fonts/JetBrainsMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+html, body {
+    font-size: 14pt;
+}
+
+
+
+/* keep code blocks smaller */
+/* .prose :where(pre):not(:where([class~="not-prose"],
+          [class~="not-prose"] *)) {
+  font-size: 0.7rem;
+}
+
+.prose :where(code):not(:where([class~="not-prose"],
+          [class~="not-prose"] *)) {
+  font-size: 0.7rem;
+}
+
+code, pre {
+        font-family: 'JetBrains Mono', monospace;
+	font-optical-sizing: auto;
+}
+
+.prose, .max-w-prose {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+} */
+

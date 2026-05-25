@@ -13,23 +13,33 @@
 [[main]]
   name = "./Blog"
   pageRef = "blog"
+  weight = 40
+
+[[main]]
+  name = "Projects"
+  pageRef= "Projects"
+  weight = 30
+
+[[main]]
+  name = "About Me"
+  pageRef= "About Me"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Writeups"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "example sub-menu 1"
+  parent = "Writeups"
+  pageRef = "posts"  # change later
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "example sub-menu 2"
+  parent = "Writeups"
+  pageRef = "posts"  # change later
+  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"

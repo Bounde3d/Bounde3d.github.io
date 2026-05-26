@@ -20,7 +20,28 @@
 }
 
 html, body {
-    font-size: 14pt;
+    font-size: 13pt;
+}
+
+
+
+
+/*about me settings */
+
+/* force about page content full width */
+.about-wide {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* override prose max-width specifically */
+.prose.about-wide {
+  max-width: 100% !important;
+}
+
+/* also target the wrapping div */
+.about-wide > * {
+  max-width: 100% !important;
 }
 
 

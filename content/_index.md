@@ -5,4 +5,7 @@ title = 'Welcome to my site!'
 description = "My homepage"
 +++
 
-Welcome to my website! I'm really happy you stopped by.
+CS graduate passionate about cybersecurity, Linux and building things.
+Currently doing CTFs, homelabs and side projects.
+
+[More about me →](/About-Me/)

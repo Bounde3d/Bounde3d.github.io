@@ -6,17 +6,12 @@ description = 'A little bit about who I am and what I do.'
 layout = "about"
 +++
 
-# Hello World
+<div class="text-left" style="font-size: 1.2rem; line-height: 1.8;">
+Hello! My online name is Bounde3d <span style="color: rgb(var(--color-neutral-400));">(pronounce Bounded)</span>👋, a Computer Science graduate who likes to talk about IoT, software and other tech-related topics. Currently based in Malaysia, I'm interested in cybersecurity and building quirky projects. Outside of tech, I enjoy gaming, taking photos of nature, and badminton.
 
-I'm Adam, a Computer Science graduate with a passion for:
-- Cybersecurity
-- Full-stack development
-- Linux and networking
-- Game development
-- Machine learning
-- Reverse engineering and low-level systems
 
-I enjoy building practical and experimental projects ranging from secure QR scanners to Mahjong AI systems and custom Linux drivers.
+</div>
+
 
 ---
 

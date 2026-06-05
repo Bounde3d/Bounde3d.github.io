@@ -17,36 +17,30 @@ Hello! My online name is Bounde3d <span style="color: rgb(var(--color-neutral-40
 
 ## 🛠 Technologies I Use
 
-- Python
-- Java
-- Flutter
-- Godot
-- TensorFlow
-- PostgreSQL
-- Linux
+- Stat1
+- Stat2
+- Stat3
+- Stat4
+- Stat5
+- Stat6
+- Stat7
 
 ---
 
 ## 🎮 Projects
 
-### Economic Onslaught
-A top-down strategy game developed using Godot.
-
-### Safe QR Scanner
-A Flutter application that scans QR codes and checks for phishing or malicious URLs using security APIs and machine learning.
-
-### Scran
-A recipe recommendation platform built with JHipster, AngularJS, and PostgreSQL.
+### Lorem Ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue vestibulum tempor. Quisque eleifend cursus augue, non tempus lectus sodales vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer tempus malesuada ipsum sed ultricies. Vivamus porta ac justo non eleifend. Nam interdum orci et orci rutrum, eu tincidunt felis scelerisque. Sed purus ligula, placerat id dui a, dictum vestibulum dolor. Quisque orci lorem, euismod at scelerisque id, iaculis in erat. Aliquam dictum malesuada mauris in porta. In hac habitasse platea dictumst. Maecenas sit amet mauris aliquam, aliquam nulla at, pretium arcu. Pellentesque eleifend a ligula eget congue. Ut pulvinar convallis magna quis tincidunt. Donec laoreet metus erat, in commodo tortor imperdiet et. 
 
 ---
 
 ## 🏸 Hobbies
 
-Outside of programming, I enjoy:
-- Playing badminton
-- Exploring Linux tools
-- Customizing themes and workflows
-- Learning about embedded systems and networking
+Dummy Text :
+- Stat1
+- Stat2
+- Stat3
+- Stat4
 
 ---
 

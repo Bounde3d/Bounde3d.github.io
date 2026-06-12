@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Bounde3d's Logfile"
+title = "Bounde3d's Home"
 
 [params]
   displayName = "EN"
@@ -12,14 +12,14 @@ title = "Bounde3d's Logfile"
   # logo = "img/profileppic.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal Blog of Bounde3d"
-  copyright = "Copy, _right?_ 🤔"
+  copyright = " © Bounde3d 🤔"
 
  [params.author]
    name = "Bounde3d"
    email = "bouncysludge@gmail.com"
    image = "img/profileppic.png"
    imageQuality = 96
-   headline = "Computer Enthusiast"
+   headline = ""
    bio = "A little bit about you"
    links = [
      { email = "mailto:bouncysludge@gmail.com" },

@@ -86,16 +86,8 @@
 
   <div
   id="background-blur"
-  class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-xl bg-neutral-100/75 dark:bg-neutral-800/60"></div>
-{{ $backgroundBlur := resources.Get "js/background-blur.js" }}
-{{ $backgroundBlur = $backgroundBlur | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
-<script
-  type="text/javascript"
-  src="{{ $backgroundBlur.RelPermalink }}"
-  integrity="{{ $backgroundBlur.Data.Integrity }}"
-  data-blur-id="background-blur"
-  data-image-id="background-image"
-  {{ if $homepageImage }}data-image-url="{{ $homepageImage.RelPermalink }}"{{ end }}></script>
+  class="fixed opacity-80 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-xl bg-neutral-100/75 dark:bg-neutral-800/60"></div>
+
 </article>
 
 

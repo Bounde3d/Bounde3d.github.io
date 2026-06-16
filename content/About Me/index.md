@@ -7,19 +7,36 @@ layout = "about"
 +++
 
 <div class="text-left" style="font-size: 1.2rem; line-height: 1.8;">
-Hello! My online name is Bounde3d <span style="color: rgb(var(--color-neutral-400));">(pronounce Bounded)</span>👋, a Computer Science graduate who likes to talk about IoT, software and other tech-related topics. Currently based in Malaysia, I'm interested in cybersecurity and building quirky projects. Outside of tech, I enjoy board games, taking photos of nature, and badminton.
+Hello! My online name is <mark>Bounde3d</mark> <span class="text-muted">(pronounced Bounded)</span>👋, a Computer Science graduate who likes to talk about IoT, software and other tech-related topics. Currently based in <strong class="text-accent">Malaysia</strong>, I'm interested in cybersecurity and building quirky projects. Outside of tech, I enjoy board games, taking photos of nature, and badminton.
 </div>
 
 
 ---
 
-## 🛠 Programming Languages
+## 🛠️ Programming Languages
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 1rem 0;">
+  <img src="/badges/Python-3776AB.svg" alt="Python"/>
+  <img src="/badges/C-00599C.svg" alt="C"/>
+  <img src="/badges/Java-ED8B00.svg" alt="Java"/>
+  <img src="/badges/Dart-0175C2.svg" alt="Dart"/>
+  <img src="/badges/CSS-E34F26.svg" alt="HTML and CSS"/>
+  <img src="/badges/JavaScript-F7DF1E.svg" alt="Javascript"/>
+  <img src="/badges/SQL-4479A1.svg" alt="SQL"/>
+</div>
 
-- Python
-- C
-- Java
-- Flutter
-- Dart
+
+## 🧰 Toolkit
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 1rem 0;">
+  <img src="/badges/Linux-FCC624.svg" alt="linux"/>
+  <img src="/badges/Kali_Linux-557C94.svg" alt="kali"/>
+  <img src="/badges/Burp_Suite-FF6633.svg" alt="Burp Suite"/>
+  <img src="/badges/Wireshark-1679A7.svg" alt="Wireshark"/>
+  <img src="/badges/Flutter-02569B.svg" alt="Flutter"/>
+  <img src="/badges/Godot-478CBF.svg" alt="Godot"/>
+  <img src="/badges/TensorFlow-FF6F00.svg" alt="Tensorflow"/>
+  <img src="/badges/Docker-2496ED.svg" alt="Docker"/>
+</div>
 
 ---
 
@@ -30,24 +47,69 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue vestibulum
 
 ---
 
-# Things I like
+## 🎮 Favourite Games 
+
+<div style="width:90%; overflow-x:auto; margin: 0 auto;">
+  <table style="width:100%; display:table; table-layout:fixed; font-size:19px;">
+  <thead>
+    <tr>
+      <th style="width:20%;"> </th>
+      <th style="width:40%;">Title</th>
+      <th style="width:40%;">Developed By</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/silksong.jpg"/></td>
+      <td>Hollow Knight: Silksong</td>
+      <td>Team Cherry</td>
+    </tr>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/minecraft.jpg"/></td>
+      <td>Minecraft</td>
+      <td>Mojang</td>
+    </tr>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/ori.jpg"/></td>
+      <td>Ori and the Blind Forest</td>
+      <td>Moon Studios</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
-## 🎮🍿 Favourite Games 
+## 🍿 Favourite Movies 
 
-Dummy Text :
-- Stat1
-- Stat2
-- Stat3
-- Stat4
+<div style="width:90%; overflow-x:auto; margin: 0 auto;">
+  <table style="width:100%; display:table; table-layout:fixed; font-size:19px;">
+  <thead>
+    <tr>
+      <th style="width:20%;"> </th>
+      <th style="width:40%;">Title</th>
+      <th style="width:40%;">Release Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/phm.jpg"/></td>
+      <td>Project Hail Mary</td>
+      <td>2026</td>
+    </tr>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/EEAAO.jpg"/></td>
+      <td>Everything Everywhere All at Once</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td ><img class="customImageAboutMe" src="thingsilike/Parasite.png"/></td>
+      <td>Parasite</td>
+      <td>2019</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-## Favourite Movies 
-
-Dummy Text :
-- Stat1
-- Stat2
-- Stat3
-- Stat4
 
 ---
 <div class="text-center">
@@ -55,7 +117,7 @@ Dummy Text :
 ## 📷 Gallery
 
 {{< lead >}}
-Capturing my moments, one frame at a time.
+Capturing moments, one frame at a time.
 {{< /lead >}}
 
 </div>

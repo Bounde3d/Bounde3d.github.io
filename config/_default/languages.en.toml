@@ -12,7 +12,7 @@ title = "Bounde3d's Home"
   # logo = "img/profileppic.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal Blog of Bounde3d"
-  copyright = " © Bounde3d 🤔"
+  copyright = " © 2026 Bounde3d"
 
  [params.author]
    name = "Bounde3d"
@@ -20,7 +20,7 @@ title = "Bounde3d's Home"
    image = "img/profileppic.png"
    imageQuality = 96
    headline = ""
-   bio = "A little bit about you"
+   bio = "Tinkering with Everything"
    links = [
      { email = "mailto:bouncysludge@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

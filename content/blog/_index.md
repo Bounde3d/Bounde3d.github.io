@@ -4,4 +4,4 @@ description = "CTF writeups, tech and projects"
 draft = false
 +++
 
-hello
+Writing about anything 

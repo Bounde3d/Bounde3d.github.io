@@ -65,11 +65,13 @@ code, pre {
 
 
 .text-muted {
-  color: rgb(var(--color-neutral-500));
+  color: rgb(var(--color-neutral-400));
+  font-size: 13pt;
 }
 
 .dark .text-muted {
-  color: rgb(var(--color-neutral-300));
+  color: rgb(var(--color-neutral-400));
+  font-size: 13pt;
 }
 
 .text-accent {
@@ -103,6 +105,11 @@ td {
   margin: auto;
 }
 
-
+/* dotted underline for links */
+.dotted-link a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+}
 
 

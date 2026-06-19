@@ -1,7 +1,16 @@
-# Hugo build output
-public/
-resources/
-.hugo_build.lock
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
 
 # VS Code
 .vscode/
@@ -15,3 +24,81 @@ desktop.ini
 
 # Node (if you use Fugu or any npm tools)
 node_modules/
+
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# SECURITY & SENSITIVE DATA PROTECTION (ALWAYS FIRST!)
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# CRITICAL: Protect sensitive data from accidental commits to version control
+
+*.crt
+*.key
+*.keystore
+*.pem
+*.secret
+*.token
+*_keys
+*_secrets
+*_tokens
+.env
+.env.*
+.env.*.local
+.env.local
+id_dsa
+id_rsa
+
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# BUILD ARTIFACTS & DISTRIBUTION
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+*.tar.gz
+*.zip
+public/
+resources/
+
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# DEPENDENCY MANAGEMENT & PACKAGE CACHE
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+.cache/
+_modules/
+docs/_build/
+
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# DEVELOPMENT & RUNTIME ARTIFACTS
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+*.log
+*.tmp
+hugo.log
+
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+# FRAMEWORK-SPECIFIC PATTERNS
+# ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+*.temp
+.backup/
+.bak/
+.deploy/
+.deployment/
+archetypes/__generated__/
+assets/__generated__/
+assets/css/__generated__/
+assets/images/__generated__/
+assets/js/__generated__/
+benchmark/
+benchmarks/
+config.json.bak
+config.toml.bak
+config.yaml.bak
+config.yml.bak
+content/__generated__/
+data/__generated__/
+docs/_site/
+hugo.json.bak
+hugo.toml.bak
+hugo.yaml.bak
+hugo.yml.bak
+hugo_stats.json
+layouts/__generated__/
+static/__generated__/
+themes/*/

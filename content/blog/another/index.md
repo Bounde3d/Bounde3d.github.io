@@ -29,3 +29,8 @@ Yeehaw
 #### Some good icons
 
 # {{< icon "github" >}}{{< icon "code" >}}{{< icon "microsoft" >}}{{< icon "pgpkey" >}}{{< icon "linux" >}}{{< icon "wireshark" >}}{{< icon "burpsuite" >}}{{< icon "php" >}}{{< icon "database" >}}
+
+{{< icon "python" >}}
+{{< icon "flutter" >}}
+{{< icon "android" >}}
+{{< icon "scikitlearn" >}}

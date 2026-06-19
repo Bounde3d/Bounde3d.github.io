@@ -41,9 +41,7 @@ Hello! My online name is <mark>Bounde3d</mark> <span class="text-muted">(pronoun
 ---
 
 ## 📁 Projects
-
-### Lorem Ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue vestibulum tempor. Quisque eleifend cursus augue, non tempus lectus sodales vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer tempus malesuada ipsum sed ultricies. Vivamus porta ac justo non eleifend. Nam interdum orci et orci rutrum, eu tincidunt felis scelerisque. Sed purus ligula, placerat id dui a, dictum vestibulum dolor. Quisque orci lorem, euismod at scelerisque id, iaculis in erat. Aliquam dictum malesuada mauris in porta. In hac habitasse platea dictumst. Maecenas sit amet mauris aliquam, aliquam nulla at, pretium arcu. Pellentesque eleifend a ligula eget congue. Ut pulvinar convallis magna quis tincidunt. Donec laoreet metus erat, in commodo tortor imperdiet et. 
+{{< list limit=3 title=" " where="Type" value="projects">}}
 
 ---
 

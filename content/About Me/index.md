@@ -68,7 +68,7 @@ Hello! My online name is <mark>Bounde3d</mark> <span class="text-muted">(pronoun
       <td>Mojang</td>
     </tr>
     <tr>
-      <td ><img class="customImageAboutMe" src="thingsilike/ori.jpg"/></td>
+      <td ><img class="customImageAboutMe" src="thingsilike/Ori.jpg"/></td>
       <td>Ori and the Blind Forest</td>
       <td>Moon Studios</td>
     </tr>

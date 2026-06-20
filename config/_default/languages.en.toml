@@ -9,7 +9,7 @@ title = "Bounde3d's Home"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/profileppic.png"
+  # logo = "img/profileppic.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal Blog of Bounde3d"
   copyright = " © 2026 Bounde3d"
@@ -17,7 +17,7 @@ title = "Bounde3d's Home"
  [params.author]
    name = "Bounde3d"
    email = "bouncysludge@gmail.com"
-   image = "img/profileppic.png"
+   image = "img/dragonBG.png"
    imageQuality = 96
    headline = ""
    bio = "Tinkering with Everything"
@@ -30,7 +30,6 @@ title = "Bounde3d's Home"
 #     { bluesky = "https://bsky.app/profile/username" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
-     
 #     { dribbble = "https://dribbble.com/username" },
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },

@@ -59,7 +59,7 @@ html, body {
 }
 
 code, pre {
-        font-family: 'JetBrains Mono', monospace;
+  font-family: 'JetBrains Mono', monospace;
 	font-optical-sizing: auto;
 }
 
@@ -113,3 +113,11 @@ td {
 }
 
 
+/*specifically for blog page */
+.example-inter {
+  font-family: 'Inter', sans-serif;
+}
+
+.example-jetbrains {
+  font-family: 'JetBrains Mono', monospace;
+}

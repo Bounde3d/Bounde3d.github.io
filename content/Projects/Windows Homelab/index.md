@@ -624,10 +624,10 @@ From there we got 2 accounts,
 
 we can test it by :
 ```shell
-ldapwhoami -H ldap://192.168.181.156 -D 'samaria.shauna@bouncy.local' -w 'W4tx(-HoG3-?'
+ldapwhoami -H ldap://SERVER_IP -D 'samaria.shauna@bouncy.local' -w 'W4tx(-HoG3-?'
 
 # and
 
-ldapwhoami -H ldap://192.168.181.156 -D 'christalle.robina@bouncy.local' -w '%2A-G[Do-f2;'
+ldapwhoami -H ldap://SERVER_IP -D 'christalle.robina@bouncy.local' -w '%2A-G[Do-f2;'
 ```
 

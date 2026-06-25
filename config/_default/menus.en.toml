@@ -30,15 +30,15 @@
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
+  name = "OverTheWire"
   parent = "Writeups"
-  pageRef = "posts"  # change later
+  pageRef = "OverTheWire" 
   weight = 20
 
 [[main]]
-  name = "example sub-menu 2"
+  name = "CTF"
   parent = "Writeups"
-  pageRef = "posts"  # change later
+  pageRef = "CTF"  
   weight = 20
 
 #[[subnavigation]]

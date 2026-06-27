@@ -4,4 +4,4 @@ description = "Big projects"
 draft = false
 +++
 
-Writing about anything 
+A collection of things I've played around with.
